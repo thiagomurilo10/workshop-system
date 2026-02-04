@@ -1,6 +1,6 @@
-package br.com.apolo.WorkShop.Resources;
+package br.com.apolo.WorkShop.resources;
 
-import br.com.apolo.WorkShop.Entities.User;
+import br.com.apolo.WorkShop.entities.User;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

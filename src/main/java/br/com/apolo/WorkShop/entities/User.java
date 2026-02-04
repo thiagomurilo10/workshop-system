@@ -1,4 +1,4 @@
-package br.com.apolo.WorkShop.Entities;
+package br.com.apolo.WorkShop.entities;
 
 import jakarta.persistence.*;
 
